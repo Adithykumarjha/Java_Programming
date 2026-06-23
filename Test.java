@@ -25,5 +25,7 @@ public class Test {
         arr[i]=sc.nextInt();
       }
       System.out.println(sumOfArray(arr));
+
+      sc.close();
   }
 }
